@@ -1,3 +1,9 @@
+     _       __                     __  _           
+  __| | ___ / /_   __         __   _\ \(_)_ __ ___  
+ / _` |/ _ \ |\ \ / /  _____  \ \ / /| | | '_ ` _ \ 
+| (_| |  __/ | \ V /  |_____|  \ V / | | | | | | | |
+ \__,_|\___| |  \_/             \_/  | |_|_| |_| |_|
+            \_\                     /_/             
 # dev_vim
 
 ### Este documento descreve a configuração completa do Vim (usando .vimrc), voltada para desenvolvimento com foco em Node.js e ferramentas modernas.
