@@ -1,5 +1,5 @@
   
-# dev_vim
+# de(v_v)im
 
 ### Este documento descreve a configuração completa do Vim (usando .vimrc), voltada para desenvolvimento com foco em Node.js e ferramentas modernas.
 
